@@ -12,6 +12,6 @@ These tests will run using Sencha Test 2.x.
 
 2. Sign up for an account on the [Asset Register app](https://se.sencha.com/AssetRegister/Register.aspx).
 
-3. Update the login credentials being used in `Login.js`.
+3. Update the login credentials being used in the `Login.js` test suite.
 
 4. Run the tests within Sencha Studio.
