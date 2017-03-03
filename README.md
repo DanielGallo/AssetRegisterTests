@@ -14,4 +14,7 @@ These tests will run using Sencha Test 2.x.
 
 3. Update the login credentials being used in the `Login.js` test suite.
 
-4. Run the tests within Sencha Studio.
+4. Update the URL that's used for the tests - append your API Key (this is emailed to you when you Register for an account). By 
+  appending your API Key, data is reset for your user account when the test run commences.
+
+5. Run the tests within Sencha Studio.
