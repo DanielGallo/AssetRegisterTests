@@ -1,0 +1,16 @@
+{
+    "framework": "jasmine",
+    "libs": [],
+    "coverageFilters": [],
+    "scenarios": [
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": true,
+            "directory": "End-to-End",
+            "name": "End-to-End",
+            "page": ""
+        }
+    ],
+    "subjectUrl": "https://se.sencha.com/AssetRegister/Login.aspx?apiKey=your_key_here"
+}
