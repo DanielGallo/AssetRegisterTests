@@ -12,7 +12,7 @@ These tests will run using Sencha Test 2.x.
 
 2. Sign up for an account on the [Asset Register app](https://se.sencha.com/AssetRegister/Register.aspx).
 
-3. Update the login credentials being used in the `Login.js` test suite.
+3. Update the login credentials being used in both the `Login.js` and `User.js` test suites.
 
 4. Update the URL that's used for the tests - append your API Key (this is emailed to you when you Register for an account). By 
   appending your API Key, data is reset for your user account when the test run commences.
